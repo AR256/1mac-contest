@@ -1,0 +1,2 @@
+  -webkit-animation: background 10s cubic-bezier(1,0,0,1) infinite;
+  animation: background 10s cubic-bezier(1,0,0,1) infinite;
